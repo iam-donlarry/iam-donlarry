@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Quadri Adekunle. A Web Developer dedicated to building high-performance, visually stunning web applications.
 
-<!--
-**iam-donlarry/iam-donlarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```php
+$me = [
+    'name'       => 'Adekunle Quadri',
+    'experience' => '4+ years',
+    'focus'      => [
+        'Web Development', 
+        'DevOps', 
+        'Cloud Infrastructure'
+    ],
+    'location'   => 'Nigeria',
+    'status'     => 'Building production-grade web applications'
+];
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Projects
+
+### Gesture Aid
+Gesture Aid is an email app that watches your hand signs like a friend who knows sign language, turns them into real emails, and even handles spoken words from others so deaf and mute people can communicate freely without barriers.
+
+[View Project →](https://github.com/iam-donlarry/gestureaid)
+
+---
+
+### My Portfolio
+This is my personal portfolio project. The goal of this portfolio is to showcase my web development skills and provide a central hub for my projects. Its deployed via Vercel and continuosly updated as i grow in my craft
+
+[View Project →](https://quadriadekunle.vercel.app/)
